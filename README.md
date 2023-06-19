@@ -23,6 +23,9 @@
 
 ### bigdata on k8s
 
+### linux
+[Linux 中断（ IRQ / softirq ）基础：原理及内核实现](https://mp.weixin.qq.com/s/zzSKp4eyyMaPZsTPwy6miw)
+
 ### 其他
 
 
