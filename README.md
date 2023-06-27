@@ -5,7 +5,9 @@
 ### docker
 
 ### kubernetes
-[kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/) 
+[kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
+[浅析 CSI 工作原理](https://blog.hdls.me/16255765577465.html)
+
 ### cni
 
 ### servicemesh
