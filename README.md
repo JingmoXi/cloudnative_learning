@@ -17,7 +17,7 @@
 ### 虚拟化
 
 ### network
-
+[Kubernetes 网络插件工作原理](https://blog.hdls.me/15999158216518.html)
 ### AI on k8s
 
 ### bigdata on k8s
