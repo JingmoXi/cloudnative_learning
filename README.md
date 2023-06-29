@@ -18,7 +18,8 @@
 
 ### network
 [Kubernetes 网络插件工作原理](https://blog.hdls.me/15999158216518.html)
-### AI on k8s
+### AI infra
+[前所未有的 Milvus 源码架构解析](https://segmentfault.com/a/1190000041470259)
 
 ### bigdata on k8s
 
